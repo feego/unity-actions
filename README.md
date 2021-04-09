@@ -1,4 +1,6 @@
-# Unity-Actions
+# Unity Actions
+
+(Not affiliated with Unity Technologies)
 
 The fastest and **easiest** way to automatically test and build any Unity project!
 
@@ -10,9 +12,7 @@ Part of the [GameCI](https://github.com/game-ci/) open source project.
 <br />
 <br />
 
-</div>
-
-#### Supported versions
+#### Supported versions 
 
 Unity Actions are based on the 
 [unity3d](https://gitlab.com/gableroux/unity3d) 
@@ -66,8 +66,8 @@ can be used to test and build projects.
 ## How to use
 
 Find the
-[docs](https://game.ci/docs/github)
-on the Unity CI
+[docs](https://game.ci/docs)
+on the GameCI
 [website](https://game.ci/).
 
 Have any questions or comments? Feel free to create an issue!
