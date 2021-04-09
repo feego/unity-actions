@@ -12,7 +12,7 @@ Part of the [GameCI](https://github.com/game-ci/) open source project.
 <br />
 <br />
 
-#### Supported versions
+#### Supported versions 
 
 Unity Actions are based on the 
 [unity3d](https://gitlab.com/gableroux/unity3d) 
